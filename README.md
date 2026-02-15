@@ -2,7 +2,7 @@
 ## Clustering Analysis Using K-Means and K-Medoids  
 
 ### Overview  
-This lab explores unsupervised learning techniques using the Wine dataset from the sklearn library. The objective was to apply and compare two clustering algorithms — K-Means and K-Medoids — using k = 3 (since the dataset contains three natural classes). After standardizing the dataset, both algorithms were evaluated using the Silhouette Score and Adjusted Rand Index (ARI). PCA-based visualizations were created to compare clustering structures.
+This lab explores unsupervised learning techniques using the Wine dataset from the sklearn library. The objective was to apply and compare two clustering algorithms — K-Means and K-Medoids — using k = 3 (since the dataset contains three natural classes). After standardizing the dataset, both algorithms were evaluated using the Silhouette Score and Adjusted Rand Index (ARI). Visualizations using PCA were created to compare clustering structures.
 
 ---
 
